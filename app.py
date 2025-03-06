@@ -2,7 +2,7 @@ import streamlit as st
 import random
 
 # Setup the Streamlit app
-st.set_page_config(page_title="🧩 Word Scramble Game", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="🧩 Word Scramble Game by Amna", layout="wide", initial_sidebar_state="expanded")
 
 # Word lists for each category with related icons
 WORD_CATEGORIES = {
